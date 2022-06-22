@@ -124,7 +124,7 @@ ___
 
 **Sass** — это метаязык на основе CSS, предназначенный для увеличения уровня абстракции CSS-кода и упрощения файлов каскадных таблиц стилей. Sass поможет вам писать CSS быстрее. Например, вы можете назначить цвет переменной, и использовать везде переменную, вместо написания hex кода. И это самое примитивное, что умеет Sass.
 
-**Материл:**
+**Материал:**
 - HTML, CSS, базовый JavaScript: можно пройти легко и весело на тренажерах [HTML Academy](https://htmlacademy.ru/study). Подписка на месяц стоит около 1 500₽.
 - БЭМ: https://ru.bem.info/methodology/quick-start/
 - SASS: https://sass-scss.ru/documentation/
@@ -140,7 +140,7 @@ ___
 
 ## 3. Продвинутый Javascript 
 
-**Материл:**
+**Материал:**
 - Javascript deep dive: https://learn.javascript.ru (нужно прочитать от корки до корки)
 - Опционально: книга «[Выразительный Javascript](https://www.litres.ru/mareyn-haverbeke/vyrazitelnyy-javascript-sovremennoe-veb-programm-50447564/otzivi/)» (опционально)
 
@@ -162,7 +162,7 @@ ___
 
 **Webpack** — соберет ваше React приложение.
 
-**Материл:**
+**Материал:**
 - React: книга «[React и Redux. Функциональная веб-разработка](https://www.litres.ru/a-benks-piter/react-i-redux-funkcionalnaya-veb-razrabotka-pdf-epu-29415793/otzivi/) (книга слегка устарела, например, в ней ничего нет o webhooks, но зато она дает отличное понимание того, как React работает под капотом)
 - Документация по React: https://ru.reactjs.org (закроет вопросы не освещенные в книге. И, вообще, привыкайте читать документацию.)
 - Git: https://learngitbranching.js.org/?locale=ru_RU
